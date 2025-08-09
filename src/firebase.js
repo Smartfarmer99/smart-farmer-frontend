@@ -6,13 +6,13 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration (This is your correct config)
 const firebaseConfig = {
-  apiKey: "AIzaSyCG1DtH_yRtFb2tD1DgZiylbAZin6p0MB4",
-  authDomain: "smart-farmer-bd607.firebaseapp.com",
-  projectId: "smart-farmer-bd607",
-  storageBucket: "smart-farmer-bd607.appspot.com", // Note: I corrected this from firebasestorage.app to appspot.com, which is the standard. It should still work.
-  messagingSenderId: "675567246759",
-  appId: "1:675567246759:web:b99d98c2abd61093086a82",
-  measurementId: "G-NDLQTX8V6H"
+  apiKey: "AIzaSyD9M507xGpSVXMo2PgqBLDOUkl8wx9oW90",
+  authDomain: "smart-farmer-live.firebaseapp.com",
+  projectId: "smart-farmer-live",
+  storageBucket: "smart-farmer-live.firebasestorage.app",
+  messagingSenderId: "108294220973",
+  appId: "1:108294220973:web:827918348ca989a5986a24",
+  measurementId: "G-3LK165JG7K"
 };
 
 // Initialize Firebase
